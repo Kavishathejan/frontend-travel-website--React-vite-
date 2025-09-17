@@ -1,4 +1,4 @@
-import React from "react";
+//import React from "react";
 import loadingGif from "../assets/loading.gif"; // adjust path if needed
 
 const Loading = ({ text = "Please wait..." }: { text?: string }) => {
